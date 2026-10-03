@@ -6,7 +6,7 @@ A fast, lightweight PDF editor for Windows — built for office documents, bank 
 
 **Read, comment, print, fill forms and place signatures for free.** Try advanced Pro tools with a **7-day free trial**.
 
-## [⬇ Download Shahid PDF for Windows](https://github.com/mshahid98/shahidpdf-releases/releases/latest)
+## [⬇ Download Shahid PDF for Windows](https://github.com/mshahid98/shahidpdf-releases/releases/download/v1.2.5/ShahidPDF_Setup_v1.2.5.exe)
 
 Windows 10 (version 1809 or later) and Windows 11 · 64-bit
 
