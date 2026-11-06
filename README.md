@@ -2,61 +2,82 @@
 
 ### Your everyday PDF work, made simpler.
 
-A fast, lightweight PDF editor for Windows — built for office documents, bank forms, scanned paperwork and engineering drawings.
+A fast, lightweight PDF editor for Windows, built for office documents, bank forms, scanned paperwork and engineering drawings.
 
-**Read, comment, print, fill forms and place signatures for free.** Try advanced Pro tools with a **7-day free trial**.
+**Read, comment, fill forms, sign, print and measure 3D models for free.** Try every Pro tool with a **7-day free trial**: no registration, no payment details.
 
-## [⬇ Download Shahid PDF for Windows](https://github.com/mshahid98/shahidpdf-releases/releases/download/v1.2.7/ShahidPDF_Setup_v1.2.7.exe)
+## [⬇ Download Shahid PDF 1.3.5 for Windows](https://github.com/mshahid98/shahidpdf-releases/releases/latest)
 
-Windows 10 (version 1809 or later) and Windows 11 · 64-bit
+Windows 10 (version 1809 or later) and Windows 11 · 64-bit · about 23 MB
 
-Open the release above and download the **ShahidPDF_Setup** installer under **Assets**. Install it, then open your first PDF.
+1. Open the release above and download **ShahidPDF_Setup** under **Assets**.
+2. Run it. If Windows shows *"Windows protected your PC"*, click **More info**, then **Run anyway**.
+3. Open your first PDF. Already installed? Shahid PDF offers the update by itself.
 
 ---
 
 ## Less time fighting PDFs. More time getting work done.
 
-- **Fill forms, including scans.** Type into fillable PDF fields, or add text and ticks to scanned forms. Letter boxes help with names, IC numbers and dates.
-- **Review documents easily.** Select text, highlight, add notes and attachments, and see comments in one list. PDF comments also work in other readers.
-- **Keep drawings moving.** Large pages draw progressively so you can continue scrolling and zooming. View embedded U3D and PRC 3D models right on the page.
-- **Print with confidence.** Preview your sheets, choose paper and scale, and print on both sides — including manual two-sided printing.
-- **Work on your PC.** PDF processing and OCR run locally. Internet is needed for online activation and optional update checks; your documents are not uploaded for processing.
+- **Fill any form, even a scan.** Type into fillable fields, or add text, ticks and crosses to scanned forms. Letter boxes make names, IC numbers and dates easy, and long names flow into the next row.
+- **Review with ease.** Highlight, underline, add notes and attachments, and see every comment in one list. Your comments also open in other PDF readers.
+- **Compare two versions (Pro).** Smart Compare shows what changed between two contracts, documents or drawing revisions, in red and green, with a review list, saved sessions and PDF reports. It reads scanned pages too.
+- **Built for engineering drawings.** Large pages stay smooth to scroll, and you can zoom in up to 6700% to read the smallest dimension. Use layers and line weights, and view embedded 3D models right on the page.
+- **Measure 3D models, free.** Point at a corner, edge, circle or face to get its size, distance or angle, in mm or inches.
+- **Organize pages your way (Pro).** See every open PDF on one page, drag pages between files, rotate, delete, extract or cut out part of a page, then combine everything into one PDF.
+- **Print with confidence.** Live preview, paper and scale, several pages per sheet, two-sided printing (including manual), or just a marked area.
+- **Your documents stay on your PC.** Editing and text recognition (OCR) run locally, and your documents are never uploaded. The internet is used only for activation, the trial, licence checks, prices and updates.
 
 ## Free or Pro? Choose what you need.
 
-| Free — everyday PDF work | Pro — advanced tools |
+| Free: everyday PDF work | Pro: advanced tools |
 | --- | --- |
-| Read, search and copy text | Edit existing text and find & replace |
-| Highlights, notes and comments | Merge and organize pages |
-| Fill PDF fields and scanned forms | Redact sensitive text and pictures |
-| Place signature images | Design company chops, stamps and watermarks |
-| Print with a live preview | Create searchable PDFs with OCR |
-| View embedded 3D models | Compress PDFs and add password protection |
+| Read, search and copy text; tabs, bookmarks and layers | Edit existing text in any font; find & replace |
+| Highlights, notes and comments | Smart Compare for documents and drawings |
+| Fill PDF fields and scanned forms | Organize & Combine pages and files |
+| Place signature images | Redact sensitive text and pictures |
+| Print with a live preview | Company chops, stamps and watermarks |
+| View and measure embedded 3D models | Searchable PDFs with OCR |
+| Copy, save or print a marked area | Compress PDFs; add or remove password protection |
 
-**Want to try Pro?** Open Shahid PDF's upgrade window and start your **7-day free trial**, once per computer.
+**Want to try Pro?** Open Shahid PDF's upgrade window and start your **7-day free trial**, once per computer. It ends by itself, with no charge.
 
 ## Affordable Pro plans
 
-Choose a **1-year licence**, a **lifetime licence**, or a **business pack for 5 PCs**. Lifetime licences are a one-time purchase. All software updates are free; updates do not extend annual licences or trials.
+| Plan | Covers |
+| --- | --- |
+| **1-year licence** | 1 PC for one year |
+| **Lifetime licence** | 1 PC, every version 1.x |
+| **Business pack** | 5 PCs, every version 1.x |
 
-Check the upgrade window for current prices and launch offers, or contact us below. Licences are tied to a computer.
+- **Lifetime means every 1.x version.** Updates within 1.x are free; a future version 2 may be a separate purchase. Licences bought earlier keep the terms they were bought under.
+- **No automatic charges.** Direct-sale licences do not renew by themselves. Updates do not extend a 1-year licence or the trial.
+- **After the trial or a 1-year licence ends**, your PDFs stay usable with the Free features. Saved Smart Compare sessions need active Pro.
+- **Licences are tied to a computer.** Current prices and launch offers are in the upgrade window, or contact us below.
+- **Refunds:** for a direct purchase, contact the seller with your receipt. Your consumer rights under law are not affected.
 
-## What's improved recently?
+## What's new
 
-- **Redaction fix:** removing marked content no longer disrupts unrelated text and spacing on affected PDFs.
-- **Rotate view:** turn sideways pages for reading without changing the saved PDF.
-- **Find & replace:** preview matches and check whether replacement text fits before applying changes.
-- **Fillable forms:** type directly into fields, tick boxes and choose list items.
-- **Smaller files:** compress scanned documents and pictures while keeping text and drawings sharp.
-- **Faster opening:** multiple tabs, remembered reading positions, and tools that load when needed.
+**1.3.5**: privacy notice in English and Bahasa Malaysia (Help > About), clearer licence terms, and an installer with support details and an optional default-PDF-app prompt.
 
-See each release for its available features and changes.
+**1.3.4**: measure 3D models (size, distance, angle) for free. 3D drawings whose main parts were missing now show completely.
+
+**1.3.3**: a tidier toolbar with one zoom button and a zoom slider; Fill & Sign is easier to reach; remove a highlight from just the text you select.
+
+**1.3.2**: zoom up to 6700% on large drawings; recent files on empty tabs and the taskbar; print several pages per sheet.
+
+**1.3.1**: edit and add text in any font on your PC, previewed live; find & replace re-wraps long words; sharper text recognition.
+
+**1.3.0**: **Smart Compare** for documents, scans and engineering drawings.
+
+Full details are in each [release](https://github.com/mshahid98/shahidpdf-releases/releases) and in **Help > What's New** in the app.
 
 ## Questions, feedback or a Pro licence?
 
 [Email Shahid PDF](mailto:mshahidlatif20@gmail.com) · [WhatsApp](https://wa.me/60128026693) · [Release history](https://github.com/mshahid98/shahidpdf-releases/releases)
 
 For a bug report, include your Shahid PDF version, what you were doing, and what happened. Share a sample document only if you have permission and it contains no sensitive information.
+
+The licence terms and privacy notice are shown during installation and in **Help > About**.
 
 Built in Malaysia by **MOHD SHAHID BIN ABD LATIF** · SSM **202603261027 (IP0633380-D)**
 
